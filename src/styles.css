@@ -1,0 +1,22 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #cfecec;
+  font-size: 15px;
+  font-weight: bold;
+}
+#app {
+  background-color: #736aff;
+}
+.submit {
+  background-color: blueviolet;
+  color: aliceblue;
+  padding: 5px 8px;
+  font-weight: bold;
+}
+.select {
+  background-color: #f0f8ff;
+  font-weight: bold;
+}
+.h1 {
+  font-style: italic;
+}
